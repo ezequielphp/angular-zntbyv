@@ -14,6 +14,19 @@ export const products = [
     price: 299,
     description: ''
   }
+  ,
+  {
+    name: 'Phone SM',
+    price: 299,
+    description: ''
+  }
+  ,
+  {
+    name: 'Phone LG',
+    price: 299,
+    description: ''
+  }
+
 ];
 
 
