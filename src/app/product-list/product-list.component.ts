@@ -11,7 +11,7 @@ export class ProductListComponent {
   products = products;
 
   changeName(prod, newName ) {
-    prod.na
+    prod.name += newName;
   }
 
   share(prod ) {
